@@ -1,0 +1,17 @@
+@media screen and (max-width: 425px) {
+  body {
+    padding: 0 5px;
+  }
+
+  .todo-add * {
+    font-size: 20px;
+  }
+
+  .main-inner {
+    padding-top: 20px;
+  }
+
+  .main-inner ul li * {
+    font-size: 15px;
+  }
+}
